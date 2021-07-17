@@ -11,7 +11,7 @@ There have been times where I think I have finally gotten my problem beat, just 
 What is my problem?
 
 Is it drinking too much? Well that sure is one of my problems, but I'm not going to talk about that here.
-
+~
 Is it depression? Well, again, that sure is one of my problems, but there is absolutely no way I'm going to talk about *that* here.
 
 Is it < insert whatever you want to project here >? No probably not! Unless of course you wanted to project your terrible procrastination, because * ding ding * that is what I am going to talk about here.
