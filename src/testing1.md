@@ -1,5 +1,5 @@
 ---
-title: This is a test for a seperate repo with an update 1!
+title: This is a test for a seperate repo with an update 2!
 ---
 
 # This is a test for a seperate repo
